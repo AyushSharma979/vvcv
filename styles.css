@@ -1,0 +1,32 @@
+body{
+ background-color: #eaf6f6;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #0779e4;
+}
+p {
+  color: #d8345f;
+}
+.au:hover{
+	color:#ff165d; font-size:30px;
+}
+.pp:hover{
+	color:#ff165d; font-size:50px;
+}
+.bb{
+	color:#14b1ab; font-size:50px;
+}
+.cx:hover{
+	color:#ff165d; font-size:20px;
+}
